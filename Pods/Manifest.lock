@@ -1,0 +1,10 @@
+PODS:
+  - RCLocationManager (0.1)
+
+DEPENDENCIES:
+  - RCLocationManager
+
+SPEC CHECKSUMS:
+  RCLocationManager: f75ed2812aef4a14eaf3084fd26efb642c4cd83a
+
+COCOAPODS: 0.35.0
